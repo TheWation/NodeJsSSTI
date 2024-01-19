@@ -1,0 +1,13 @@
+{
+    "name": "express-pug-ssti-example",
+    "version": "1.0.0",
+    "description": "Node.js Express with Pug SSTI vulnerability example.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^3.0.2"
+    }
+}

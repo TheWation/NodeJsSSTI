@@ -1,6 +1,6 @@
 # Express with Pug SSTI Example
 
-[![made-with-python](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-javascript](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://www.nodejs.org/)
 [![built-with-love](http://forthebadge.com/images/badges/built-with-love.svg)](https://gitHub.com/TheWation/)
 
 This repository provides an example Express application using Pug templates to illustrate Server-Side Template Injection (SSTI) vulnerabilities and a safe implementation.
